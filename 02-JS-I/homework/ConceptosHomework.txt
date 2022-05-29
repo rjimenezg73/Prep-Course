@@ -1,0 +1,24 @@
+VARIABLES: Son usadas dentro del código para almacenar valores 
+que pueden ir cambiando durante la ejecución de las tareas.
+
+STRINGS: Es un tipo de datos que almacena desde un caracter 
+hasta un conjunto de caracteres.
+
+FUNCIONES(ARGUMENTOS,RETURN)
+Las funciones son fragmentos de código cuya finalidad es 
+agilizar procesos de codificación cuando hay partes que se
+tienen que repetir constantemente de la misma manera o con
+ligeros cambios. Toda función realiza retorno de información
+y esta información va a depender de lo que la misma realice.
+Utiliza los argumentos para ser utilizados para procesar
+información.
+
+DECLARACIONES IF:
+Nos permite evaluar el valor de una variable o condición y
+dependiendo de éste valor es que se ejecuta cierta parte del
+código.
+
+VALORES BOLEANOS TRUE Y FALSE:
+Son datos que nos indican si una condición dentro del código
+se cumple o no. Si se cumple nos devuelve True y caso contrario
+nos devuelve False.

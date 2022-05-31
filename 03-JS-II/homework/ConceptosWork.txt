@@ -1,0 +1,7 @@
+FOR: Es un ciclo repetitivo del programa donde se repetira n veces cierta parte del código. 
+
+&& Operador lógico Y. Se utiliza para evaluar dos o más sentencias. Éstas deben de cumplirse para que cierta parte del código se ejecute.
+
+|| Operador lógico O. Se utiliza para evaluar dos o más sentencis. Para que cierta parte del código se ejecute pot lo menos debe de cumplirse una de las sentencias.
+
+! Operador NOT. Cambia el valor boleano. 

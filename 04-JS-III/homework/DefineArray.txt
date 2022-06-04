@@ -1,0 +1,3 @@
+
+Los Arrays es una estructura de datos, una matruz de datos. Se les conoce también 
+como arreglos.

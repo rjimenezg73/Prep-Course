@@ -1,0 +1,5 @@
+OBJETOS: Es una estructura de datos que viene a estructurar la información de una manera más eficiente a diferencia de los arreglos.
+PROPIEDADES: Es una referencia a los datos contenido dentro de un objeto.
+MÉTODOS: Cumplen la misma función que las funciones dentro de la estructura de datos de un objeto.
+BUCLE for...in : Muy similar al for, se realiza por medio de éste una iteración por todos los datos de un objeto sin la necesidad de un índice.
+NOTACIÓN DE PUNTO VS NOTACIÓN DE CORCHETES: La función es la misma, para accesar a los datos del objeto ya sea para leerlos o para escribir datos en él. La diferencia es que usamos el punto cuando conocemos el nombre de la propiedad a utilizar y los corchetes para cuando accesaremos a esos datos por medio de un parámetro.

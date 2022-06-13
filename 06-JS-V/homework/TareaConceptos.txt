@@ -1,0 +1,1 @@
+PROTOTYPE: Son propiedades heredadas a los objetos pertenecientes a los objetos padres. 

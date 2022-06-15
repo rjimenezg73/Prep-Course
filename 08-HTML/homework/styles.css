@@ -1,0 +1,33 @@
+
+html{
+  
+}
+
+body{
+  background-image: url("fondo.jpg");
+}
+
+h1{
+  color: blue;
+  text-align: center;
+}
+
+img{
+  width: 400px;
+  align-content: center;
+}
+
+#thirdDiv{
+  width: 500px;
+  height: 600px;
+  background-color: aquamarine;
+  padding: 50px;
+  border-color:black;
+  border-radius: 10px;
+  align-content: center;
+}
+
+#spanId{
+  font-size: 18px;
+  align-content: center;
+}
